@@ -10,7 +10,7 @@ This page will be updated as new datasets are added or existing datasets are mod
 
 ## 2024 Precinct-level Results by Vote Type
 
-💾 [precinct_results_2024.csv.gz]('precinct_results_2024.csv.gz') (1.5 MB)
+💾 [precinct_results_2024.csv.gz](precinct_results_2024.csv.gz) (1.5 MB)
 
 ### Dataset Description
 
