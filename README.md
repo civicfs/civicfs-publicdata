@@ -17,7 +17,7 @@ This repository contains:
 ## Usage
 
 ### Downloading Data
-All datasets are stored in this repository under the `datasets/` directory. You can browse the available datasets and download them directly.
+All datasets are stored in this repository under the [`datasets/`](datasets/) directory. You can browse the available datasets and download them directly.
 
 ### Licensing
 Unless otherwise specified, all datasets and resources in this repository are released under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Please give appropriate credit when using our data.
@@ -30,3 +30,4 @@ We welcome contributions to this repository! If you have data or tools you belie
 If you have questions or need assistance with this repository, please contact us:
 - Email: [support@civicforge.solutions](mailto:support@civicforge.solutions)
 - Website: [Civic Forge Solutions](https://civicforge.solutions)
+- Bluesky: [info.civicforge.solutions](https://info.civicforge.solutions)
